@@ -1,0 +1,4 @@
+print(grey.shape) 4
+
+print(grey)-6
+print(gray)-6
